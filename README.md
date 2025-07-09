@@ -8,7 +8,7 @@ Matlab app for simple audio signal processing
 -third tap has a surprsie just try to play with it 
 
 ## 📸 Screenshots
-![Home](screenshots/Tap_1.png)
+![Home]("screenshots\Tap_1.png)
 ![CUSTOMIZE](screenshots/Tap_2.png)
 ![SIGNALS](screenshots/Tap_3.png)
 
